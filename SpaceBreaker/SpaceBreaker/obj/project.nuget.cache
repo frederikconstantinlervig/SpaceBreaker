@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UU3nLVNNhZGgvJEx3tR4LblejZbDeanDsmSfArLknpbcf0VZW4rlpTlpRTE48pVgWyykEBSJ5j0b1SNQ2R0mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frede\\OneDrive\\Skrivebord\\Projekter\\GitHub\\SpaceBreaker\\SpaceBreaker\\SpaceBreaker\\SpaceBreaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frede\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
